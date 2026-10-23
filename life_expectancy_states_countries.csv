@@ -1,0 +1,77 @@
+name,place_type,group,life_expectancy_est,birth_year,state_postal,state_fips,iso3,below_lowest_wealthy_country,years_vs_wealthy_avg
+Japan,Country,Wealthy country,84.8,2021,,,JPN,No,2.2
+Australia,Country,Wealthy country,84.5,2021,,,AUS,No,1.9
+South Korea,Country,Wealthy country,83.7,2021,,,KOR,No,1.1
+Spain,Country,Wealthy country,83.0,2021,,,ESP,No,0.4
+Italy,Country,Wealthy country,82.9,2021,,,ITA,No,0.3
+Canada,Country,Wealthy country,82.7,2021,,,CAN,No,0.1
+France,Country,Wealthy country,82.5,2021,,,FRA,No,-0.1
+Taiwan,Country,Wealthy country,80.9,2021,,,TWN,No,-1.7
+Britain,Country,Wealthy country,80.7,2021,,,GBR,No,-1.9
+Hawaii,U.S. state,U.S. state,80.6,2020,HI,15,USA,No,-2.0
+Germany,Country,Wealthy country,80.6,2021,,,DEU,No,-2.0
+Washington,U.S. state,U.S. state,79.2,2020,WA,53,USA,Yes,-3.4
+Minnesota,U.S. state,U.S. state,79.1,2020,MN,27,USA,Yes,-3.5
+Massachusetts,U.S. state,U.S. state,79.0,2020,MA,25,USA,Yes,-3.6
+New Hampshire,U.S. state,U.S. state,79.0,2020,NH,33,USA,Yes,-3.6
+California,U.S. state,U.S. state,79.0,2020,CA,06,USA,Yes,-3.6
+Oregon,U.S. state,U.S. state,78.8,2020,OR,41,USA,Yes,-3.8
+Vermont,U.S. state,U.S. state,78.8,2020,VT,50,USA,Yes,-3.8
+Thailand,Country,Other country,78.7,2021,,,THA,Yes,-3.9
+Utah,U.S. state,U.S. state,78.6,2020,UT,49,USA,Yes,-4.0
+Connecticut,U.S. state,U.S. state,78.4,2020,CT,09,USA,Yes,-4.2
+Idaho,U.S. state,U.S. state,78.4,2020,ID,16,USA,Yes,-4.2
+Colorado,U.S. state,U.S. state,78.3,2020,CO,08,USA,Yes,-4.3
+Rhode Island,U.S. state,U.S. state,78.2,2020,RI,44,USA,Yes,-4.4
+China,Country,Other country,78.2,2021,,,CHN,Yes,-4.4
+Maine,U.S. state,U.S. state,77.8,2020,ME,23,USA,Yes,-4.8
+Nebraska,U.S. state,U.S. state,77.7,2020,NE,31,USA,Yes,-4.9
+New York,U.S. state,U.S. state,77.7,2020,NY,36,USA,Yes,-4.9
+Wisconsin,U.S. state,U.S. state,77.7,2020,WI,55,USA,Yes,-4.9
+Virginia,U.S. state,U.S. state,77.6,2020,VA,51,USA,Yes,-5.0
+Florida,U.S. state,U.S. state,77.5,2020,FL,12,USA,Yes,-5.1
+Iowa,U.S. state,U.S. state,77.5,2020,IA,19,USA,Yes,-5.1
+New Jersey,U.S. state,U.S. state,77.5,2020,NJ,34,USA,Yes,-5.1
+Maryland,U.S. state,U.S. state,77.4,2020,MD,24,USA,Yes,-5.2
+North Dakota,U.S. state,U.S. state,76.9,2020,ND,38,USA,Yes,-5.7
+Saudi Arabia,Country,Other country,76.9,2021,,,SAU,Yes,-5.7
+Pennsylvania,U.S. state,U.S. state,76.8,2020,PA,42,USA,Yes,-5.8
+Illinois,U.S. state,U.S. state,76.8,2020,IL,17,USA,Yes,-5.8
+Montana,U.S. state,U.S. state,76.8,2020,MT,30,USA,Yes,-5.8
+Delaware,U.S. state,U.S. state,76.7,2020,DE,10,USA,Yes,-5.9
+South Dakota,U.S. state,U.S. state,76.7,2020,SD,46,USA,Yes,-5.9
+Alaska,U.S. state,U.S. state,76.6,2020,AK,02,USA,Yes,-6.0
+Poland,Country,Other country,76.5,2021,,,POL,Yes,-6.1
+Texas,U.S. state,U.S. state,76.5,2020,TX,48,USA,Yes,-6.1
+Algeria,Country,Other country,76.4,2021,,,DZA,Yes,-6.2
+Kansas,U.S. state,U.S. state,76.4,2020,KS,20,USA,Yes,-6.2
+Sri Lanka,Country,Other country,76.4,2021,,,LKA,Yes,-6.2
+Wyoming,U.S. state,U.S. state,76.3,2020,WY,56,USA,Yes,-6.3
+Nevada,U.S. state,U.S. state,76.3,2020,NV,32,USA,Yes,-6.3
+Arizona,U.S. state,U.S. state,76.3,2020,AZ,04,USA,Yes,-6.3
+North Carolina,U.S. state,U.S. state,76.1,2020,NC,37,USA,Yes,-6.5
+Turkey,Country,Other country,76.0,2021,,,TUR,Yes,-6.6
+Michigan,U.S. state,U.S. state,76.0,2020,MI,26,USA,Yes,-6.6
+Georgia,U.S. state,U.S. state,75.6,2020,GA,13,USA,Yes,-7.0
+Argentina,Country,Other country,75.4,2021,,,ARG,Yes,-7.2
+Ohio,U.S. state,U.S. state,75.3,2020,OH,39,USA,Yes,-7.3
+Missouri,U.S. state,U.S. state,75.1,2020,MO,29,USA,Yes,-7.5
+Indiana,U.S. state,U.S. state,75.0,2020,IN,18,USA,Yes,-7.6
+Malaysia,Country,Other country,74.9,2021,,,MYS,Yes,-7.7
+South Carolina,U.S. state,U.S. state,74.8,2020,SC,45,USA,Yes,-7.8
+New Mexico,U.S. state,U.S. state,74.5,2020,NM,35,USA,Yes,-8.1
+Oklahoma,U.S. state,U.S. state,74.1,2020,OK,40,USA,Yes,-8.5
+Morocco,Country,Other country,74.0,2021,,,MAR,Yes,-8.6
+Iran,Country,Other country,73.9,2021,,,IRN,Yes,-8.7
+Tennessee,U.S. state,U.S. state,73.8,2020,TN,47,USA,Yes,-8.8
+Arkansas,U.S. state,U.S. state,73.8,2020,AR,05,USA,Yes,-8.8
+Vietnam,Country,Other country,73.6,2021,,,VNM,Yes,-9.0
+Kentucky,U.S. state,U.S. state,73.5,2020,KY,21,USA,Yes,-9.1
+Alabama,U.S. state,U.S. state,73.2,2020,AL,01,USA,Yes,-9.4
+Louisiana,U.S. state,U.S. state,73.1,2020,LA,22,USA,Yes,-9.5
+Colombia,Country,Other country,72.8,2021,,,COL,Yes,-9.8
+West Virginia,U.S. state,U.S. state,72.8,2020,WV,54,USA,Yes,-9.8
+Brazil,Country,Other country,72.8,2021,,,BRA,Yes,-9.8
+Peru,Country,Other country,72.4,2021,,,PER,Yes,-10.2
+Bangladesh,Country,Other country,72.4,2021,,,BGD,Yes,-10.2
+Mississippi,U.S. state,U.S. state,71.9,2020,MS,28,USA,Yes,-10.7
